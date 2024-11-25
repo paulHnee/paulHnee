@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GoLang, powershell
 - 📫 How to reach me via Email - Paul.Buchwald@hnee.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Im an Coach for a junior Volleyball Team
+- ⚡ Fun fact: Im a Coach for a junior Volleyball Team
 
 <!---
 paulHnee/paulHnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
