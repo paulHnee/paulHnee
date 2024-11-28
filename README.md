@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulHnee
 - 👀 I’m interested in Programming, Automatization
-- 🌱 I’m currently learning GoLang, powershell
+- 🌱 I’m currently learning GoLang, powershell, C#
 - 📫 How to reach me via Email - Paul.Buchwald@hnee.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im a Coach for a junior Volleyball Team
