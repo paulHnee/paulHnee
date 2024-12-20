@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @paulHnee
-- 👀 I’m interested in Programming, Automatization
-- 🌱 I’m currently learning GoLang, powershell, C#
+- 👋 Hi, I’m @paulHnee Junior Engineer Systemintegration
+- 👀 I’m interested in Programming, Automatization, Networking
+- 🌱 I’m currently learning powershell, C#
 - 📫 How to reach me via Email - Paul.Buchwald@hnee.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Im a Coach for a junior Volleyball Team
+- ⚡ Fun fact: I'm a coach for a junior volleyball Team
 
 <!---
 paulHnee/paulHnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
